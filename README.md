@@ -1,1 +1,1 @@
-# TypeScriptProject1
+# This is a restaurant recommender program 
